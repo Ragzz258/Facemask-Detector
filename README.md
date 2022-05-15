@@ -1,4 +1,4 @@
-# Face-Mask Detector
+# Facemask-Detector
 Real time face-mask detection using Deep Learning and OpenCV
 
 ## About Project
@@ -53,6 +53,3 @@ python facemask.py
 ```
 
 #### The Project is now ready to use !!
-
-
-# Facemask-Detector
