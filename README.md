@@ -9,18 +9,6 @@ wearing/removing mask and display of prediction.
 
 #### The model is capable of predicting multiple faces with or without masks at the same time
 
-## Working 
-
-### With Mask
-
-![image](mask.png)
-
-### No Mask
-
-![image](nomask.png)
-
-
-
 
 ## Dataset
 
